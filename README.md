@@ -28,3 +28,11 @@ with real-world UI patterns and e-commerce-like features.
 ## 📈 What I Learned
 - Structuring UI-heavy React applications
 - Enhancing UX with animations
+
+
+## Install dependencies    
+
+- npm install
+
+## Start development server
+- http://localhost:5173
